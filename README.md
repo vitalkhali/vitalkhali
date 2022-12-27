@@ -10,7 +10,9 @@ I am a data and AI enthusiast committed to improving the visibility of business 
 *   ✉️  You can contact me at [vital@khali.dev](mailto:vital@khali.dev)
 *   🚀  I'm currently working on [My Time at Sandrock, a sequel to My Time at Portia](http://store.steampowered.com/app/1084600/My_Time_at_Sandrock/)
 *   🧠  I'm learning everything Data Science
-*   🤝  I'm open to collaborating on Gaming driven Data Science Projects### Skills 
+*   🤝  I'm open to collaborating on Gaming driven Data Science Projects
+
+### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -34,6 +36,7 @@ I am a data and AI enthusiast committed to improving the visibility of business 
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
 ### Badges
 
 <a href="https://github.com/vitalkhali" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalkhali&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
