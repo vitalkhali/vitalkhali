@@ -6,11 +6,10 @@ Data Analyst at Pathea Games
 
 I am a data and AI enthusiast committed to improving the visibility of business performance, developing accountability across departments, and achieving data-driven process improvements.
 
-*   🌍  I'm based in Chongqing, China
+*   🌍  I'm based in Chengdu, China
 *   ✉️  You can contact me at [vital@khali.dev](mailto:vital@khali.dev)
-*   🚀  I'm currently working on [My Time at Sandrock, a sequel to My Time at Portia](http://store.steampowered.com/app/1084600/My_Time_at_Sandrock/)
-*   🧠  I'm learning everything Data Science
-*   🤝  I'm open to collaborating on Gaming driven Data Science Projects
+*   🚀  I'm currently working at Injet.com
+*   🤝  I'm open to collaborating on EV and New Energy driven Data Science Projects
 
 ### Skills 
 <p align="left">
