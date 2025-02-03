@@ -8,7 +8,7 @@ I am a data and AI enthusiast committed to improving the visibility of business 
 
 *   🌍  I'm based in Chengdu, China
 *   ✉️  You can contact me at [vital@khali.dev](mailto:vital@khali.dev)
-*   🚀  I'm currently working at Injet.com
+*   🚀  I'm currently working at [a link](https://Injet.com)
 *   🤝  I'm open to collaborating on EV and New Energy driven Data Science Projects
 
 ### Skills 
