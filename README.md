@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vital
 =============================================================================================================================
 
-Data Analyst at Pathea Games
+Digital Marketing & Growth Manager at INJET
 ----------------------------
 
 I am a data and AI enthusiast committed to improving the visibility of business performance, developing accountability across departments, and achieving data-driven process improvements.
 
 *   🌍  I'm based in Chengdu, China
 *   ✉️  You can contact me at [vital@khali.dev](mailto:vital@khali.dev)
-*   🚀  I'm currently working at [INJET](https://Injet.com)
+*   🚀  I'm currently working at [INJET](https://injet.com)
 *   🤝  I'm open to collaborating on EV and New Energy driven Data Science Projects
 
 ### Skills 
